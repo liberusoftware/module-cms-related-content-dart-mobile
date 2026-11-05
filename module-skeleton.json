@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-related-content-dart-mobile",
+  "capabilityKey": "liberusoftware/module-cms-related-content",
+  "presentation": "dart-mobile",
+  "package": "module_cms_related_content_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/cms/nextjs/related-content.md",
+  "presentationPlan": "projects/cms/features/related-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
